@@ -4,7 +4,7 @@
 
 基于 [tnwx](https://www.npmjs.com/package/tnwx) 的微信本地调试工具
 
-使用前需要申请微信测试账号
+使用前需要申请微信测试账号并关注
 
 [微信公众平台接口测试帐号申请](https://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login)
 
